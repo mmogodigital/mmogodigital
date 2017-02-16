@@ -1,0 +1,40 @@
+{{ if isset .Site.Params "featured_project" }}
+<section id="featured-projects">
+    <div class="container-fluid">
+        <div class="row">
+            {{ range .Site.Data.featured_projects }}
+            <div class="left col-md-6 no-padding">
+                <a href="{{ .url }}" target="_blank">
+                    <img src="{{ .image }}" alt="{{ .name }}"/>
+                </a>
+            </div>
+
+            <div class="right col-md-6">
+                <h5 class="text-center">Featured Project</h5>
+
+                <div class="heading text-center">
+                    <h1>{{ .name }}</h1>
+                </div>
+
+                <p>{{ .summary }}</p>
+
+                <div class="content">
+
+                    <div class="item" title="{{ .name }}">
+
+                        <p class="lead">
+                            {{ .description }}
+                        </p>
+
+                        <a href="case-study/{{ .slug }}">Read More</a>
+
+                    </div>
+
+                </div>
+            </div>
+
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

@@ -1,0 +1,64 @@
+<section id="contact-home">
+    <div class="container">
+
+        <div class="row">
+            <div class="form-container">
+
+                {{ .Content }}
+
+                {{ if isset .Site.Params "email" }}
+
+                <h1>Contact Form</h1>
+                <br>
+
+                <div id="contact-message"></div>
+
+                <form class="contact-form" method="post" action="https://formspree.io/{{ .Site.Params.email }}">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <!--<label for="name">Your Name</label>-->
+                                <input type="text" class="form-control" name="name" id="name" placeholder="Your Name" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <!--<label for="email">Your Email</label>-->
+                                <input type="text" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <!--<label for="message">Your Message</label>-->
+                                <textarea id="message" class="form-control" name="message" placeholder="Message" rows="10" required></textarea>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-12 text-center">
+                            <button type="submit" class="btn btn-primary"><i class="fa fa-envelope-o"></i> Send Message</button>
+
+                        </div>
+                    </div>
+                    <!-- /.row -->
+                </form>
+
+                {{ end }}
+
+            </div>
+
+        </div>
+        <!-- /.row -->
+    </div>
+
+    {{ if isset .Site.Params "latitude" }}
+    {{ if isset .Site.Params "longitude" }}
+    <div class="hidden">
+        <input id="gmap-lat" value="{{ .Site.Params.latitude }}" />
+        <input id="gmap-lng" value="{{ .Site.Params.longitude }}" />
+    </div>
+    <div id="map" />
+    {{ end }}
+    {{ end }}
+</section>
+
+

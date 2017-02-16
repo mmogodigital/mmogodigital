@@ -1,47 +1,40 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
-<html>
-    <head>
-        {{ partial "head.html" .}}
-    </head>
-    <body>
-        {{ partial "nav.html" .}}
+<html lang="en">
 
-		{{ partial "hero.html" .}}
-		
-        {{ partial "intro.html" .}}
+  {{ partial "head.html" . }}
 
-		{{ if .Site.Params.work.enable }}
-       		{{ partial "work.html" .}}
-       	{{ end }}
+  <body>
 
-		{{ if .Site.Params.testimonials.enable }}
-        	{{ partial "testimonials.html" .}}
-		{{ end }}
+    <div id="all">
 
-		{{ if .Site.Params.services.enable }}
-        	{{ partial "services.html" .}}
-		{{ end }}
+        <header id="header">
 
-		{{ if .Site.Params.about.enable }}
-        	{{ partial "about.html" .}}
-		{{ end }}
+          {{ partial "nav.html" . }}
 
-		{{ if .Site.Params.counters.enable }}
-        	{{ partial "counters.html" .}}
-        {{ end }}
+        </header>
 
-		{{ if .Site.Params.contact.enable }}
-        	{{ partial "contact.html" .}}
-        {{ end }}
+        {{ partial "carousel.html" . }}
 
-        {{ if .Site.Params.footer.enable }}
-        	{{ partial "footer.html" .}}
-        {{ end }}
+        {{ partial "about.html" . }}
 
-        {{ partial "js.html" .}}
-    </body>
+        {{ partial "services.html" . }}
+
+        {{ partial "featured_project.html" . }}
+
+        {{ partial "portfolio.html" . }}
+
+        {{ partial "contact_home.html" . }}
+
+        {{ partial "newsletter.html" . }}
+
+        {{ partial "map.html" . }}
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
 </html>

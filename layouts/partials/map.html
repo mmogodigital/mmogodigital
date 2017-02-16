@@ -1,0 +1,24 @@
+<section id="map-block">
+
+    {{ if isset .Site.Params "address" }}
+    <div class="col-md-6 col-sm-6 contact-details">
+
+        <h3>Our Office</h3>
+
+        {{ .Site.Params.address | safeHTML }}
+
+        <a href="/contact" class="small">Go to contact page</a>
+
+    </div>
+    <!-- /.col-md-4 -->
+    {{ end }}
+
+    <div class="map" onclick="document.getElementById('iframe').style.pointerEvents= 'auto'">
+        <iframe src="https://www.google.com/maps/embed/v1/place?q={{ .Site.Params.latitude }},{{ .Site.Params.longitude }}
+          &zoom=15
+          &attribution_source=Google+Maps+Embed+API
+          &attribution_web_url=https://developers.google.com/maps/documentation/embed/
+          &key=AIzaSyCUjUnvIsIAesmvx9hKHXZGfw1oaHdKJ6M" allowfullscreen>
+        </iframe>
+    </div>
+</section>

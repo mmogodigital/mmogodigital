@@ -1,0 +1,40 @@
+{{ if isset .Site.Params "case_studies" }}
+{{ if .Site.Params.case_studies.enable }}
+{{ if gt (len .Site.Data.case_study) 0 }}
+<section id="case-studies">
+    <div class="container-fluid">
+        <div class="row">
+            <!--<div class="heading text-center">-->
+                <!--<h2>{{ .Site.Params.case_studies.title }}</h2>-->
+            <!--</div>-->
+
+            <!--<p class="lead">-->
+              <!--{{ .Site.Params.case_studies.subtitle }}-->
+            <!--</p>-->
+
+            <div id="portfolio-slider">
+                <div class="slider">
+                    {{ range .Site.Data.case_study }}
+                        <div class="item">
+                            <div class="content text-center">
+                                <h2 class="text-center">{{ .name }}</h2>
+                                <p>{{ .description }}</p>
+                                <a href="case-study/{{ .slug }}" class="btn btn-primary">Read More</a>
+                                <a href="{{ .url }}" target="_blank" class="btn btn-warning">Visit Site</a>
+                            </div>
+
+                            <div class="overlay"></div>
+
+                            <div class="image">
+                                <img src="{{ .image }}" alt="{{ .name }}" class="img-reponsive" />
+                            </div>
+                        </div>
+                {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
