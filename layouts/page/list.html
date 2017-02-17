@@ -13,7 +13,6 @@
 
         </header>
 
-        {{ partial "breadcrumbs.html" . }}
 
         <div id="content">
             <div class="container">
@@ -21,6 +20,8 @@
                     <!-- *** LEFT COLUMN *** -->
 
                     <div class="col-md-9" id="blog-listing-medium">
+
+                        {{ partial "breadcrumbs.html" . }}
 
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
                         {{ range $paginator.Pages }}

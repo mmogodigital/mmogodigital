@@ -7,20 +7,14 @@
 
     <div id="all" class="subpage blog">
 
-        <header>
-
-          {{ partial "nav.html" . }}
-
-        </header>
-
-        {{ partial "breadcrumbs.html" . }}
+        <header>{{ partial "nav.html" . }}</header>
 
         <div id="content">
             <div class="container">
                 <div class="row">
-                    <!-- *** LEFT COLUMN *** -->
-
+                    <div class="col-xs-12">{{ partial "breadcrumbs.html" . }}</div>
                     <div class="col-md-9" id="blog-listing-medium">
+
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
                         {{ range $paginator.Pages }}
                         <section class="post">
@@ -37,7 +31,7 @@
                                   </div>
                                 </div>
                                 <div class="col-md-8">
-                                    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                                    <h3 style="text-transform: uppercase;margin-top: 0;"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                     <div class="clearfix">
                                         <p class="author-category">
                                           {{ if isset .Params "author" }}
@@ -54,8 +48,8 @@
                                             <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i> {{ .Date.Format .Site.Params.date_format }}</a>
                                         </p>
                                     </div>
-                                    <p class="intro">{{ .Summary }}</p>
-                                    <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">Continue reading</a>
+                                    <p class="intro">{{ .Params.summary }}</p>
+                                    <p class="read-more"><a href="{{ .Permalink }}" >Read More...</a>
                                     </p>
                                 </div>
                             </div>

@@ -18,7 +18,7 @@ section{
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Khand', sans-serif;
 }
 
 h1, h2{
@@ -31,6 +31,25 @@ h1, h2{
   border-radius: 1px;
 }
 
+.btn-main{
+  background: #23c2d7;
+  border: 2px solid #23c2d7;
+  font-size: 20px;
+  padding: 10px 20px;
+  margin-top: 30px;
+  color: #fff;
+  margin: 30px 5px 0;
+}
+
+.btn-main-outline{
+  border: 2px solid #23c2d7;
+  font-size: 20px;
+  padding: 10px 20px;
+  margin-top: 30px;
+  color: #fff;
+  background: transparent;
+  margin: 30px 5px 0;
+}
 
 /*Global Form Styles*/
 .form-control{
@@ -100,6 +119,7 @@ h1, h2{
 
 .navbar-default .navbar-collapse{
   text-align: center;
+  margin-top: -30px;
 }
 
 .nav.navbar-nav{
@@ -111,7 +131,7 @@ h1, h2{
 }
 
 .navbar-brand>img{
-  max-width: 300px;
+  max-width: 250px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -126,19 +146,59 @@ h1, h2{
 
 #main-slider .caption{
   position: absolute;
-  top: 60%;
+  top: 30%;
   z-index: 200;
   left: 0;
   right: 0;
   margin: 0 auto;
   color: #fff;
+  text-align: center;
 }
 
 #main-slider .slick-initialized .slick-slide{
   position: relative;
 }
 
+#main-slider .slick-dots{
+  display: block;
+  bottom: auto;
+  right: 10px;
+  width: 30px;
+  top: 50%;
+  z-index: 500;
+}
 
+#main-slider .slick-dots li{
+  display: block;
+  margin-bottom: 5px;
+  top: 0;
+  left: 0;
+  border: 3px solid #23c4d9;
+  border-radius: 50%;
+  padding: 9px;
+}
+
+#main-slider .slick-dots li button:before{
+  font-size: 12px;
+  color: transparent;
+  opacity: 0.5;
+  /*border: 3px solid #23c4d9;*/
+  border-radius: 50%;
+}
+
+#main-slider .slick-dots li.slick-active button:before{
+  color: #23c4d9;
+  opacity: 1;
+  left: -1px;
+}
+
+#main-slider .slick-dotted.slick-slider{
+  margin-bottom: 0;
+}
+
+#main-slider h1{
+  font-size: 80px;
+}
 
 /*Services*/
 #services{
@@ -160,7 +220,7 @@ h1, h2{
 
 /*Featured Projects*/
 #featured-projects{
-  background: rgb(45, 45, 45);
+  background: #2e2c2e;
   color: #fff;
 }
 
@@ -259,8 +319,7 @@ h1, h2{
 
 /*Contact Home*/
 #contact-home{
-  background: #4b5259;
-  background: rgb(45, 45, 45);
+  background: #2e2c2e;
   padding: 60px;
   color: #fff;
 }
@@ -300,14 +359,14 @@ h1, h2{
   background: url("./../img/fixed-background-1.jpg") no-repeat;
   background: #f7f5f7;
   background-size: cover;
-  color: #000;
+  color: #444;
   padding: 60px;
 }
 
 
 /*Copyright*/
 #copyright{
-  background: #000000;
+  background: #2e2c2e;
   color: #fff;
   padding: 10px 0;
   margin-bottom: 0;
@@ -336,8 +395,92 @@ h1, h2{
 
 /*Subpage*/
 .subpage header{
-  background: black;
-  padding:0 20px 15px;
+  background: #2e2c2e;
+  padding:0 20px;
+  min-height: 105px;
+}
+
+.subpage #content{
+  padding: 50px 0 100px;
+}
+
+/*Case Studies Index*/
+#case-study-listing .case-study{
+  position: relative;
+  min-height: 280px;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+#case-study-listing .case-study img:hover{
+  opacity: 0.8;
+  /*background: rgba(0,0,0,0.8);*/
+}
+
+#case-study-listing .case-study .content{
+  z-index: 200;
+  position: absolute;
+  text-align: center;
+  color: #fff;
+  opacity: 0;
+  background: rgba(51,51,51, 0.9);
+  top: 0;
+  width: 350px;
+  height: 100%;
+  transition: opacity 1s;
+  padding-top: 10%;
+}
+
+#case-study-listing .case-study .content:hover{
+  opacity: 1;
+}
+
+#case-study-listing .case-study .content a{
+  color: #fff;
+}
+
+#case-study-listing .case-study .logo{
+  position: absolute;
+  width: 350px;
+  top: 0;
+  margin: 0 auto;
+  display: block;
+  left: 0;
+  right: 0;
+  background: rgba(4, 3, 3, 0.4);
+  height: 100%;
+  text-align: center;
+  padding-top: 10%;
+  color: #f8f8f8;
+}
+
+#case-study-listing .case-study:hover .logo{
+  display: none;
+}
+
+#case-study-listing .case-study .logo img{
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+
+/*Contact Us*/
+#contact.container .contact-form{
+  float: none;
+  margin: 0 auto;
+}
+
+#contact.container .form-control{
+  background: #f3f1f1;
+}
+
+/*Blog Index*/
+#blog-listing-medium .row{
+  margin-bottom: 30px;
+}
+
+#blog-listing-medium .row h3 a{
+  color: #444;
 }
 
 

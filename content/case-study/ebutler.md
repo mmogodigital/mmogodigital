@@ -5,7 +5,8 @@ categories = []
 tags = []
 draft = true
 image = "img/clients/ebutler.jpg"
-
+logo = "img/logos/ebutler.png"
+works = "Website, Social Media, Analytics"
 +++
 #### Internal Project
 

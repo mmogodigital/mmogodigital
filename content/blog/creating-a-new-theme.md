@@ -4,6 +4,8 @@ date = "2015-06-24T13:50:46+02:00"
 tags = ["theme"]
 categories = ["starting"]
 banner = "img/banners/banner-1.jpg"
+author = "MmogoDigital"
+summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum."
 +++
 
 ## Introduction

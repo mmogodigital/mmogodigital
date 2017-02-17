@@ -4,6 +4,8 @@ date = "2015-08-03T13:39:46+02:00"
 tags = ["hugo"]
 categories = ["pseudo"]
 banner = "img/banners/banner-3.jpg"
+author = "MmogoDigital"
+summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum."
 +++
 
 ## Step 1. Install Hugo

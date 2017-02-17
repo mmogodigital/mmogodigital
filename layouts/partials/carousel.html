@@ -12,9 +12,11 @@
 
                         <div class="col-sm-5 caption">
                             <h1>{{ .title }}</h1>
-                            {{ .description | safeHTML }}
+                            <h4>{{ .description | safeHTML }}</h4>
 
-                            <button class="btn btn-default">See Our Work</button>
+                            <a href="#services" class="btn btn-main">Our Services</a>
+
+                            <a href="/case-study" class="btn btn-main-outline">See Our Work</a>
 
                         </div>
 

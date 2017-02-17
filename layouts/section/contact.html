@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{ partial "head.html" . }}
+
+<body>
+
+<div id="all" class="subpage">
+
+    <header>{{ partial "nav.html" . }}</header>
+
+    <div id="content">
+        <div class="container" id="contact">
+
+            <div class="row">
+                <div class="col-xs-12 text-center">
+                    <h1>Contact Us</h1>
+                </div>
+
+                <div class="col-md-8 contact-form">
+
+                    <section>
+
+                        {{ .Content }}
+
+                        {{ if isset .Site.Params "email" }}
+
+
+                        <div id="contact-message"></div>
+
+                        <form class="contact-form" method="post" action="https://formspree.io/{{ .Site.Params.email }}">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <!--<label for="name">Your Name</label>-->
+                                        <input type="text" class="form-control" placeholder="Your Name" name="name" id="name" required>
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <!--<label for="email">Your Email</label>-->
+                                        <input type="text" placeholder="Your Email" class="form-control" name="email" id="email" required>
+                                    </div>
+                                </div>
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <!--<label for="message">Your Message</label>-->
+                                        <textarea id="message" placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm-12 text-center">
+                                    <button type="submit" class="btn btn-primary"><i class="fa fa-envelope-o"></i> Send Message</button>
+
+                                </div>
+                            </div>
+                            <!-- /.row -->
+                        </form>
+
+                        {{ end }}
+
+                    </section>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <section>
+        {{ partial "newsletter.html" . }}
+
+        {{ partial "map.html" . }}
+
+        {{ partial "footer.html" . }}
+    </section>
+
+</div>
+{{ partial "scripts.html" . }}
+
+</body>
+</html>

@@ -4,6 +4,8 @@ date = "2015-09-17T13:47:08+02:00"
 tags = ["go"]
 categories = ["programming"]
 banner = "img/banners/banner-2.jpg"
+author = "MmogoDigital"
+summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum."
 +++
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for

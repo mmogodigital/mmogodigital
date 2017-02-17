@@ -67,7 +67,7 @@ paginate = 10
     weight = 3
 
 [[params.menu]]
-    name = "Contact"
+    name = "Contact Us"
     url  = "/contact/"
     weight = 4
 
