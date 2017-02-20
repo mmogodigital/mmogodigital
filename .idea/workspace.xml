@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d587654-c76c-4380-94aa-48fa4d24982c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/mailchimp.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/CNAME" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/clients/ebutler-2.jpg" afterPath="$PROJECT_DIR$/static/img/clients/ebutler-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/img/clients/ebutler.jpg" afterPath="$PROJECT_DIR$/static/img/clients/ebutler.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/footer.html" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/newsletter.html" afterPath="$PROJECT_DIR$/layouts/partials/newsletter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/scripts.html" afterPath="$PROJECT_DIR$/layouts/partials/scripts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/404.html" afterPath="$PROJECT_DIR$/public/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2015/06/24/creating-a-new-theme/index.html" afterPath="$PROJECT_DIR$/public/blog/2015/06/24/creating-a-new-theme/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2015/08/03/hugo-is-for-lovers/index.html" afterPath="$PROJECT_DIR$/public/blog/2015/08/03/hugo-is-for-lovers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2015/09/17/go-is-for-lovers/index.html" afterPath="$PROJECT_DIR$/public/blog/2015/09/17/go-is-for-lovers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2015/10/02/linked-post/index.html" afterPath="$PROJECT_DIR$/public/blog/2015/10/02/linked-post/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/2015/10/10/migrate-from-jekyll/index.html" afterPath="$PROJECT_DIR$/public/blog/2015/10/10/migrate-from-jekyll/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog/index.html" afterPath="$PROJECT_DIR$/public/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/case-study/ebutler-2/index.html" afterPath="$PROJECT_DIR$/public/case-study/ebutler-2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/case-study/imprimatur/index.html" afterPath="$PROJECT_DIR$/public/case-study/imprimatur/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/case-study/index.html" afterPath="$PROJECT_DIR$/public/case-study/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/case-study/lifti/index.html" afterPath="$PROJECT_DIR$/public/case-study/lifti/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/case-study/nova/index.html" afterPath="$PROJECT_DIR$/public/case-study/nova/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/case-study/reo/index.html" afterPath="$PROJECT_DIR$/public/case-study/reo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/case-study/whats-for-dinner/index.html" afterPath="$PROJECT_DIR$/public/case-study/whats-for-dinner/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/categories/lorem/index.html" afterPath="$PROJECT_DIR$/public/categories/lorem/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/categories/programming/index.html" afterPath="$PROJECT_DIR$/public/categories/programming/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/categories/pseudo/index.html" afterPath="$PROJECT_DIR$/public/categories/pseudo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/categories/starting/index.html" afterPath="$PROJECT_DIR$/public/categories/starting/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/contact/contact/index.html" afterPath="$PROJECT_DIR$/public/contact/contact/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/contact/index.html" afterPath="$PROJECT_DIR$/public/contact/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/go/index.html" afterPath="$PROJECT_DIR$/public/tags/go/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/golang/index.html" afterPath="$PROJECT_DIR$/public/tags/golang/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/hugo/index.html" afterPath="$PROJECT_DIR$/public/tags/hugo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/ipsum/index.html" afterPath="$PROJECT_DIR$/public/tags/ipsum/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/programming/index.html" afterPath="$PROJECT_DIR$/public/tags/programming/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/tags/theme/index.html" afterPath="$PROJECT_DIR$/public/tags/theme/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/deploy.sh" afterPath="$PROJECT_DIR$/scripts/deploy.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/custom.css" afterPath="$PROJECT_DIR$/static/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/front.js" afterPath="$PROJECT_DIR$/static/js/front.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -90,8 +53,8 @@
       <file leaf-file-name="newsletter.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/layouts/partials/newsletter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state relative-caret-position="208">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#section#0;n#!!top" expanded="true" />
               </folding>
@@ -252,8 +215,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2109" />
-    <option name="y" value="46" />
+    <option name="x" value="2114" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="823" />
   </component>
@@ -295,89 +258,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmogo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmogo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmogo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmogo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmogo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmogo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmogo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmogo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="section" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmogo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mmogo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -509,18 +390,18 @@
       <workItem from="1484898437684" duration="509000" />
       <workItem from="1485329053890" duration="2630000" />
       <workItem from="1486143602309" duration="4996000" />
-      <workItem from="1486389361337" duration="107129000" />
+      <workItem from="1486389361337" duration="107528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119514000" />
+    <option name="totallyTimeSpent" value="119913000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2109" y="46" width="1280" height="823" extended-state="0" />
-    <editor active="true" />
+    <frame x="2114" y="23" width="1280" height="823" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19936457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19936457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.50913423" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -567,14 +448,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/layouts/partials/breadcrumbs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/_default/single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -975,10 +848,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/partials/newsletter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="208">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#section#0;n#!!top" expanded="true" />
           </folding>
