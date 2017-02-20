@@ -41,6 +41,12 @@ h1, h2{
   margin: 30px 5px 0;
 }
 
+.btn-main:hover{
+  background-color: #119caf;
+  border-color: #13c0c1;
+  color: #fff;
+}
+
 .btn-main-outline{
   border: 2px solid #23c2d7;
   font-size: 20px;
@@ -49,6 +55,34 @@ h1, h2{
   color: #fff;
   background: transparent;
   margin: 30px 5px 0;
+}
+
+.btn-main-outline:hover{
+  color: #fff;
+  background: #23c2d7;
+}
+
+.btn-primary{
+  background-color: #23c2d7;
+  border-color: #1ed6ef;
+  border-width: 2px;
+}
+
+.btn-primary:hover{
+  background-color: #119caf;
+  border-color: #13c0c1;
+}
+
+.btn-default {
+  border-color: #23c2d7;
+  border-width: 2px;
+  background: transparent;
+}
+
+.btn-default:hover {
+  border-color: #23c2d7;
+  border-width: 2px;
+  background: #23c2d7;
 }
 
 /*Global Form Styles*/
@@ -139,6 +173,10 @@ h1, h2{
   color: #fff;
 }
 
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover{
+  color: #adaaaa;
+}
 /*Carousel*/
 .home-carousel{
   background: none;
@@ -209,6 +247,7 @@ h1, h2{
   padding: 60px 60px 120px;
   color: #fff;
   text-align: center;
+  max-width: 80%;
 }
 
 #services .inner .fa{
@@ -302,7 +341,15 @@ h1, h2{
   right:20px;
 }
 
-/*Newsletter*/
+#case-studies .btn{
+  margin-top: 10px;
+}
+
+#case-studies .btn-primary{
+  margin-right: 10px;
+}
+
+  /*Newsletter*/
 #newsletter{
   background: #23c2d7;
   padding: 20px 60px 60px;
@@ -374,6 +421,7 @@ h1, h2{
 
 #copyright p{
   margin-bottom: 0;
+  font-size: 13px;
 }
 
 #copyright ul{
@@ -481,6 +529,11 @@ h1, h2{
 
 #blog-listing-medium .row h3 a{
   color: #444;
+}
+
+/*Sidebar*/
+.panel.sidebar-menu{
+  border-radius: 1px;
 }
 
 

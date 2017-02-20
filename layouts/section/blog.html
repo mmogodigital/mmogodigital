@@ -33,17 +33,6 @@
                                 <div class="col-md-8">
                                     <h3 style="text-transform: uppercase;margin-top: 0;"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                     <div class="clearfix">
-                                        <p class="author-category">
-                                          {{ if isset .Params "author" }}
-                                          By <a href="#">{{ .Params.author }}</a>
-                                          {{ end }}
-                                          {{ if isset .Params "categories" }}
-                                          {{ if gt (len .Params.categories) 0 }}
-                                          in <a href="{{ $.Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize | lower }}">{{ index .Params.categories 0 }}</a>
-                                          {{ end }}
-                                          {{ end }}
-
-                                        </p>
                                         <p class="date-comments">
                                             <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i> {{ .Date.Format .Site.Params.date_format }}</a>
                                         </p>
