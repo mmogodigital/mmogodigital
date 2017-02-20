@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all" class="subpage">
+
+        <header>{{ partial "nav.html" . }}</header>
+
+
+        <div id="content">
+            {{ if isset .Params "id" }}
+
+              {{ partial .Params.id . }}
+
+            {{ else }}
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-12">
+                        {{ partial "breadcrumbs.html" . }}
+
+                        <div>
+                          {{ .Content }}
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+            {{ end }}
+        </div>
+
+        {{ partial "newsletter.html" . }}
+
+        {{ partial "footer.html" . }}
+
+    </div>
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
+
