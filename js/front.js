@@ -234,7 +234,13 @@ $(window).resize(function () {
 })
 
 
-$('#main-slider .slider').slick();
+$('#main-slider .slider').slick({
+    dots: true,
+    infinite: true,
+    autoplaySpeed: 1000,
+    fade: true,
+    autoplay: true
+});
 
 $('#portfolio-slider .slider').slick({
     infinite: true,
