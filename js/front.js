@@ -245,7 +245,8 @@ $('#main-slider .slider').slick({
 $('#portfolio-slider .slider').slick({
     infinite: true,
     slidesToShow: 3,
-    slidesToScroll: 1
+    slidesToScroll: 1,
+    autoplay: true
 });
 
 // Remove mouse wheel scroll on GMaps
@@ -255,4 +256,8 @@ $('.map').click(function () {
 
 $( ".map" ).mouseleave(function() {
     $('.map iframe').css("pointer-events", "none");
+});
+
+$('#mc-form').ajaxChimp({
+        url: 'https://mmogodigital.us15.list-manage.com/subscribe/post?u=5a03d5bc85ba6cf81c6141735&id=33e6da20d2'
 });
