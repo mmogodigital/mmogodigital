@@ -170,7 +170,13 @@
     <div class="container">
         <h2>Newsletter Signup</h2>
         <p>Subscribe to our newsletter to get updates, important announcements and so on. No spam, ever, we promise.</p>
-        <input type="text" placeholder="Your Email Address">
+
+        <form id="mc-form">
+            <input type="email" id="mc-email" placeholder="Your Email Address">
+            <button type="submit" class="btn btn-danger">Subscribe</button>
+            <div style="margin-top: 5px;"><label for="mc-email"></label></div>
+        </form>
+
     </div>
 </section>
 
@@ -211,8 +217,8 @@
             <ul>
                 <li><a href="facebook.com"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                 <li><a href="twitter.com"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                <li><a href="linkedin.com"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                <li><a href="github.com"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+                <li><a href="linkedin.com"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                <li><a href="https://github.com/mmogodigital"><i class="fa fa-github" aria-hidden="true"></i></a></li>
             </ul>
         </div>
     </div>
@@ -231,6 +237,7 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.5/waypoints.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+<script src="http://mmogodigital.com/js/mailchimp.js"></script>
 <script src="http://mmogodigital.com/js/slick.js"></script>
 <script src="http://mmogodigital.com/js/front.js"></script>
 
