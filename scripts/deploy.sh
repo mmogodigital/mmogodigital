@@ -25,9 +25,9 @@ rm -rf public/*
 echo "Generating site"
 hugo
 
-echo "Adding CNAME file for custom domain"
-touch CNAME
-echo
+echo "Adding CNAME file for github pages custom domain"
+touch public/CNAME
+echo "mmogodigital.com" >> public/CNAME
 
-echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+echo "Updating gh-pages branch and pushing upstream"
+cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)" && git push origin gh-pages

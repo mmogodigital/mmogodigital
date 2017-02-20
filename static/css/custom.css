@@ -29,6 +29,7 @@ h1, h2{
 /*Global Button Styles*/
 .btn{
   border-radius: 1px;
+  text-transform: uppercase;
 }
 
 .btn-main{
@@ -359,8 +360,13 @@ h1, h2{
 
 #newsletter input{
   border: none;
-  padding: 5px 10px;
+  padding: 7px 10px;
   min-width: 300px;
+  color: #444;
+}
+
+#newsletter button{
+  margin-top: -5px;
 }
 
 
