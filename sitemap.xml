@@ -2,7 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://mmogodigital.com/services/bots/</loc>
+    <lastmod>2017-02-06T17:45:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mmogodigital.com/services/branding/</loc>
+    <lastmod>2017-02-06T17:45:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mmogodigital.com/services/content-management/</loc>
+    <lastmod>2017-02-06T17:45:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mmogodigital.com/services/data-analytics/</loc>
     <lastmod>2017-02-06T17:45:46+02:00</lastmod>
   </url>
   
@@ -17,6 +32,11 @@
   </url>
   
   <url>
+    <loc>http://mmogodigital.com/services/e-commerce/</loc>
+    <lastmod>2017-02-06T17:45:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mmogodigital.com/case-study/imprimatur/</loc>
     <lastmod>2017-02-06T17:45:46+02:00</lastmod>
   </url>
@@ -27,22 +47,12 @@
   </url>
   
   <url>
-    <loc>http://mmogodigital.com/services/mobile/</loc>
-    <lastmod>2017-02-06T17:45:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mmogodigital.com/case-study/reo/</loc>
     <lastmod>2017-02-06T17:45:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mmogodigital.com/services/social-media/</loc>
-    <lastmod>2017-02-06T17:45:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mmogodigital.com/services/web-design/</loc>
+    <loc>http://mmogodigital.com/services/web-mobile/</loc>
     <lastmod>2017-02-06T17:45:46+02:00</lastmod>
   </url>
   
