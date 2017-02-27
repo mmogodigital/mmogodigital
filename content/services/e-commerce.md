@@ -1,23 +1,21 @@
 +++
-title = "Branding"
+title = "E-Commerce"
 date = "2017-02-06T17:45:46+02:00"
-slug = "branding"
+slug = "e-commerce"
 +++
-
 
 <p class='service-img' markdown='1'>
 <img src="/img/banners/banner-1.jpg" alt="Web and Mobile">
 </p>
 
-### Corporate Identity
+### E-Commerce Store Development
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
 
-
-### Marketing Materials
+### E-Commerce Consulting
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
 
-### Print Ads
+### Cart Recovery
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
 
-### Annual Reports
+### Email Lists
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.

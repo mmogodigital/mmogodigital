@@ -8,5 +8,12 @@ logo = "img/logos/lifti.png"
 works = "Website, Social Media, Analytics"
 +++
 
-### Internal Project
+### The Initial Idea
+
+
+### Fonts Used
+
+
+### Logo Design
+
 
