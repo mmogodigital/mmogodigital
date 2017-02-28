@@ -40,15 +40,6 @@
     </item>
     
     <item>
-      <title>Imprimatur</title>
-      <link>http://mmogodigital.com/case-study/imprimatur/</link>
-      <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
-      
-      <guid>http://mmogodigital.com/case-study/imprimatur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lifti</title>
       <link>http://mmogodigital.com/case-study/lifti/</link>
       <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
@@ -70,6 +61,10 @@ It&amp;rsquo;s a platform where we didnt want to make money, but to simply use t
 &lt;p class=&#39;case-study-logo&#39; markdown=&#39;1&#39;&gt;
 &lt;img src=&#34;http://mmogodigital.com/img/logos/lifti.png&#34; alt=&#34;Lifi Logo&#34; class=&#34;img-responsive&#34;&gt;
 &lt;/p&gt;
+
+&lt;h3 id=&#34;the-stack&#34;&gt;The Stack&lt;/h3&gt;
+
+&lt;p&gt;Lifti was built by using NodeJS in the backend, and CSS, HTML5 and Javascript in the front end. We were tempted to use AngularJS in the front end, but we were concerned about taking too long to bring something to market, for an idea that was mostly experimental and wasn&amp;rsquo;t going to be monetized.&lt;/p&gt;
 
 &lt;h3 id=&#34;fonts-used&#34;&gt;Fonts Used&lt;/h3&gt;
 
@@ -99,7 +94,49 @@ It&amp;rsquo;s a platform where we didnt want to make money, but to simply use t
       <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
       
       <guid>http://mmogodigital.com/case-study/nova/</guid>
-      <description></description>
+      <description>
+
+&lt;h3 id=&#34;the-client-brief&#34;&gt;The Client Brief&lt;/h3&gt;
+
+&lt;p&gt;Nova is a student bursary web app, it connects students with companies that offer bursaries. The project is the brainchild of Name Here, and she asked us to help her bring this project to life.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-stack&#34;&gt;The Stack&lt;/h3&gt;
+
+&lt;p&gt;We used Django for the website, to allow the client to add more content over time. A site like this needs to be kept up to date with new bursaries and new companies for it to be useful.&lt;/p&gt;
+
+&lt;h3 id=&#34;design&#34;&gt;Design&lt;/h3&gt;
+
+&lt;p&gt;The client likes the color green, and also wanted a clean and simple design. We think we delivered, and we made sure to keep the site simple and have the content drive the design, not the other way around. The choice of fonts was important, to make sure the content would be clear and legible.
+&lt;p class=&#39;screenshots&#39; markdown=&#39;1&#39;&gt;
+&lt;img src=&#34;http://mmogodigital.com/img/screenshots/nova-1.png&#34; alt=&#34;Nova Design&#34; class=&#34;img-responsive&#34;&gt;
+&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Praekelt Consulting - Telkom</title>
+      <link>http://mmogodigital.com/case-study/telkom/</link>
+      <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
+      
+      <guid>http://mmogodigital.com/case-study/telkom/</guid>
+      <description>
+
+&lt;h3 id=&#34;the-client-brief&#34;&gt;The Client Brief&lt;/h3&gt;
+
+&lt;p&gt;Praekelt Consulting had to redesign Telkom’s website and integrate all the microsites they previously had. To effectively achieve the new design, they needed a dedicated Content Curation team to help with Telkom’s vast products and deals on a daily basis.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-approach&#34;&gt;The Approach&lt;/h3&gt;
+
+&lt;p&gt;Understanding the requirements and the time sensitivity of the project, we deployed a full time team to work with Praekelt Consulting and Telkom’s product managers from the project planning phase till post launch of what is arguably the biggest &amp;amp; best Telecom eCommerce site in Africa. Our Content team remained with the project post launch to facilitate products and deals updates as per marketing and promotions plans of Telkom.&lt;/p&gt;
+
+&lt;h3 id=&#34;design&#34;&gt;Design&lt;/h3&gt;
+
+&lt;p&gt;For this project, our work was limited to just the content. Telkom has a very complicated CMS, and has lots of products and deals that change quickly&lt;/p&gt;
+
+&lt;p class=&#39;screenshots&#39; markdown=&#39;1&#39;&gt;
+&lt;img src=&#34;http://mmogodigital.com/img/screenshots/telkom-1.png&#34; alt=&#34;Telkom Content&#34; class=&#34;img-responsive&#34;&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -150,6 +187,26 @@ For the frontend we used the usual suspects, CSS and Javascript.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Unilever SA</title>
+      <link>http://mmogodigital.com/case-study/unilever/</link>
+      <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
+      
+      <guid>http://mmogodigital.com/case-study/unilever/</guid>
+      <description>
+
+&lt;h3 id=&#34;the-client-brief&#34;&gt;The Client Brief&lt;/h3&gt;
+
+&lt;p&gt;Unilever SA needed to recreate their physical staff kiosks online to allow a “click &amp;amp; collect” process for their employees across all their offices from Durban to Johannesburg. The online store needed to address several issues such as stock availability, data privacy &amp;amp; security, payment, product quantity restrictions and integration with their existing SAP &amp;amp; Microsoft systems.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-approach&#34;&gt;The Approach&lt;/h3&gt;
+
+&lt;p&gt;Through a deeper analysis of the challenges presented by the client, and observing employees using the kiosks live, we set out to create an omnichannel eCommerce platform that does not only allow the convenience of shopping on the go, but seamlessly integrates with the physical kiosks inventory &amp;amp; Point of Sale systems for real time transactions.
+&lt;br&gt;&lt;br&gt;
+The reason behind this approach was to ensure that the online store works in the similar way as the kiosks without discrepancies that might render the new platform inconvenient, whilst allowing Unilever’s product marketing team personalise promotions based on cart history and behaviour on the platform using the built in CRM we added to platform.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>eButler</title>
       <link>http://mmogodigital.com/case-study/ebutler/</link>
       <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
@@ -157,17 +214,41 @@ For the frontend we used the usual suspects, CSS and Javascript.&lt;/p&gt;
       <guid>http://mmogodigital.com/case-study/ebutler/</guid>
       <description>
 
-&lt;h4 id=&#34;internal-project&#34;&gt;Internal Project&lt;/h4&gt;
+&lt;h3 id=&#34;the-initial-idea&#34;&gt;The Initial Idea&lt;/h3&gt;
+
+&lt;p&gt;eButler is an internal project, that is being run by our Joburg office. eButler was our first internal project, and has been our flagship product in South Africa so far. The idea is to do grocery shopping for people, using Uber for last mile delivery.
+&lt;br&gt;
+&lt;br&gt;
+We have found that the idea was very popular with companies that need someone to restock their office supplies, which led to the birth of eButler for business, which has accounted for most of our sales revenue so far.&lt;/p&gt;
+
+&lt;h3 id=&#34;logo-design&#34;&gt;Logo Design&lt;/h3&gt;
+
+&lt;p&gt;The logo was done by a South African design firm, we wanted a simple logo that also had a cart graphic, to show our shopping roots. We had a logo before, but we found it did not truly represent the eButler brand that we had in mind. The new logo had an interesting typography, and the cart graphic we picked had a bow-tie element, that ties to the idea of a traditional butler.
+&lt;p class=&#39;case-study-logo&#39; markdown=&#39;1&#39;&gt;
+&lt;img src=&#34;http://mmogodigital.com/img/logos/ebutler.png&#34; alt=&#34;eButler Logo&#34; class=&#34;img-responsive&#34;&gt;
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;fonts-used&#34;&gt;Fonts Used&lt;/h3&gt;
+
+&lt;p&gt;For eButler, we did the classic font pairing, a sans-serif font and a serif font.&lt;/p&gt;
+
+&lt;h4 id=&#34;montserrat&#34;&gt;Montserrat&lt;/h4&gt;
+
+&lt;p&gt;For the main headings, we picked Montserrat, a beautiful sans-serif font.&lt;/p&gt;
+
+&lt;h4 id=&#34;istok-web&#34;&gt;Istok Web&lt;/h4&gt;
+
+&lt;p&gt;For the body text, we settled on Istok Web. It&amp;rsquo;s a stylish and simple font that works well with blocks of text.&lt;/p&gt;
+
+&lt;h3 id=&#34;design&#34;&gt;Design&lt;/h3&gt;
+
+&lt;p&gt;The design was supposed to be simple, so that the products would stand out. And the use of color had to be smart, so that product imagery would not be overwhelmed by the design. At the core, eButler is a shopping site, and shopping sites are driven by product imagery, and in a way it is easier to design. We decided that we want users to start purchasing as soon as possible, therefore the obvious thing to do was to have the products on the home page, and we decided these had to be the most popular products that other users are purchasing
+&lt;br&gt;&lt;br&gt;
+Incidentally, we are working on version 2 of eButler, which is informed by all that we have learnt over the past 2 years running eButler. We love the direction its going in already, and we can&amp;rsquo;t wait to unveil it to the rest of our users.
+&lt;p class=&#39;screenshots&#39; markdown=&#39;1&#39;&gt;
+&lt;img src=&#34;http://mmogodigital.com/img/screenshots/ebutler-2.png&#34; alt=&#34;eButler Design&#34; class=&#34;img-responsive&#34;&gt;
+&lt;/p&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>eButler</title>
-      <link>http://mmogodigital.com/case-study/whats-for-dinner/</link>
-      <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
-      
-      <guid>http://mmogodigital.com/case-study/whats-for-dinner/</guid>
-      <description></description>
     </item>
     
   </channel>
