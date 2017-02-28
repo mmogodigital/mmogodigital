@@ -6,6 +6,7 @@ tags = []
 works = "Website, Social Media, Analytics"
 site = "http://nova.qa.buisoft.com/"
 image = "img/clients/nova.jpg"
+short = "Nova is a student bursary web app, it connects students with companies that offer bursaries."
 +++
 
 

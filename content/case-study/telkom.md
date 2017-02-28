@@ -7,6 +7,7 @@ works = "Content Curation"
 site = "http://www.telkom.co.za"
 image = "img/clients/telkom.jpg"
 logo = "img/logos/telkom.png"
+short = "Praekelt Consulting had to redesign Telkom’s website and integrate all the microsites they previously had."
 +++
 
 

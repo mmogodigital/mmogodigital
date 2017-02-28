@@ -6,6 +6,7 @@ tags = []
 works = "Website, eCommerce, Analytics"
 image = "img/clients/unilever.jpg"
 logo = "img/logos/unilever.png"
+short = "Unilever SA needed to recreate their physical staff kiosks online to allow a “click & collect” process for their employees across all their offices from Durban to Johannesburg."
 +++
 
 ### The Client Brief

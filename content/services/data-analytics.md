@@ -5,7 +5,7 @@ slug = "data-analytics"
 +++
 
 <p class='service-img' markdown='1'>
-<img src="/img/banners/banner-1.jpg" alt="Web and Mobile">
+<img src="/img/banners/banner-4.jpeg" alt="Web and Mobile">
 </p>
 
 

@@ -7,6 +7,7 @@ works = "Website, Social Media, Analytics, Email Marketing, Newsletter"
 site = "https://www.ebutler.co.za"
 image = "img/clients/ebutler.jpg"
 logo = "img/logos/ebutler.png"
+short = "eButler is an internal project, that is being run by our Joburg office. eButler was our first internal project, and has been our flagship product in South Africa so far. "
 +++
 
 

@@ -7,6 +7,7 @@ works = "Website, Analytics"
 site = "https://www.giscoe.co.za"
 image = "img/clients/giscoe.jpg"
 logo = "img/logos/giscoe.png"
+short = "Benjamin & Davis had to redesign Giscoe’s website as part of their digital marketing plans, and needed a tech partner to execute on their designs with a 4 weeks turnaround time before launch. "
 +++
 
 
