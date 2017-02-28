@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d587654-c76c-4380-94aa-48fa4d24982c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/clients/telkom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/clients/unilever.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/logos/telkom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/screenshots/ebutler-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/screenshots/ebutler-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/screenshots/nova-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/img/screenshots/telkom-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/featured_projects/unilever.yaml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/featured_projects/whats-for-dinner.yaml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/case-study/imprimatur.md" afterPath="$PROJECT_DIR$/content/case-study/telkom.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/case-study/whats-for-dinner.md" afterPath="$PROJECT_DIR$/content/case-study/unilever.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/data/case_study/imprimatur.yaml" afterPath="$PROJECT_DIR$/data/case_study/telkom.yaml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/data/case_study/whats-for-dinner.yaml" afterPath="$PROJECT_DIR$/data/case_study/unilever.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/case-study/ebutler.md" afterPath="$PROJECT_DIR$/content/case-study/ebutler.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/case-study/lifti.md" afterPath="$PROJECT_DIR$/content/case-study/lifti.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/case-study/nova.md" afterPath="$PROJECT_DIR$/content/case-study/nova.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/case_study/ebutler.yaml" afterPath="$PROJECT_DIR$/data/case_study/ebutler.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/case_study/giscoe.yaml" afterPath="$PROJECT_DIR$/data/case_study/giscoe.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/case_study/nova.yaml" afterPath="$PROJECT_DIR$/data/case_study/nova.yaml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,16 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="giscoe.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/case_study/giscoe.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="telkom.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/case_study/telkom.yaml">
           <provider selected="true" editor-type-id="text-editor">
@@ -92,11 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="unilever.yaml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="unilever.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/case_study/unilever.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
               <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -198,7 +180,6 @@
       <list>
         <option value="$PROJECT_DIR$/layouts/section/blog.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/scripts/deploy.sh" />
         <option value="$PROJECT_DIR$/scripts/test.sh" />
         <option value="$PROJECT_DIR$/layouts/partials/footer.html" />
@@ -247,6 +228,7 @@
         <option value="$PROJECT_DIR$/content/case-study/nova.md" />
         <option value="$PROJECT_DIR$/content/case-study/unilever.md" />
         <option value="$PROJECT_DIR$/data/case_study/unilever.yaml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -523,7 +505,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163164000" />
+    <option name="totallyTimeSpent" value="163294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1780" y="23" width="1280" height="1002" extended-state="0" />
@@ -576,7 +558,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/services/social-media.md" />
     <entry file="file://$PROJECT_DIR$/content/services/mobile.md" />
     <entry file="file://$PROJECT_DIR$/data/carousel/money.yaml">
       <provider selected="true" editor-type-id="text-editor">
@@ -920,6 +901,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
           <folding />
         </state>
       </provider>
