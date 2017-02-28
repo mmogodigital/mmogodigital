@@ -23,7 +23,7 @@
 
                     {{ $paginator := .Paginate (where .Data.Pages "Type" "case-study") }}
                     {{ range $paginator.Pages }}
-                        <div class="col-md-4 case-study">
+                        <div class="col-md-4 col-sm-6 col-xs-12 case-study">
                             <a href="{{ .Permalink }}" class="clearfix">
                                 <div class="image">
                                     <img src="{{ .Site.BaseURL}}{{ .Params.image }}" class="img-responsive" alt="">
@@ -40,7 +40,7 @@
                                 <div class="content">
                                     <h2>{{ .Title }}</h2>
                                     <h5>{{ .Params.works }}</h5>
-                                    <p class="intro">{{ .Summary }}</p>
+                                    <p class="intro">{{ .Params.short }}</p>
                                     <p class="read-more">Read More...</p>
                                 </div>
                             </a>

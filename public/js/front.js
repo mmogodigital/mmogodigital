@@ -237,10 +237,11 @@ $(window).resize(function () {
 $('#main-slider .slider').slick({
     dots: true,
     infinite: true,
-    autoplaySpeed: 1000,
+    autoplaySpeed: 2000,
     fade: true,
-    autoplay: true
-});
+    autoplay: true,
+    speed: 500
+})
 
 $('#portfolio-slider .slider').slick({
     infinite: true,
