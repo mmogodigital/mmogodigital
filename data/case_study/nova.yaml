@@ -1,6 +1,5 @@
 name: "Nova"
 image: "img/clients/nova.jpg"
-url: "http://www.nova.co.za"
+url: "http://www.novaqa.buisoft.co.za"
 slug: "nova"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam aliquid, at aut dolore est ex expedita inventore ipsa magnam nam nisi non quam quas quidem repudiandae sunt ullam unde.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam aliquid, at aut dolore est ex expedita inventore ipsa magnam nam nisi non quam quas quidem repudiandae sunt ullam unde."
+description: "Nova is a student bursary web app, it connects students with companies that offer bursaries. The project is the brainchild of Name Here, and she asked us to help her bring this project to life."

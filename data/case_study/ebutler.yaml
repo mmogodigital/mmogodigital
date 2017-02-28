@@ -2,5 +2,4 @@ name: "eButler"
 image: "img/clients/ebutler.jpg"
 url: "http://www.ebutler.co.za"
 slug: "ebutler"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam aliquid, at aut dolore est ex expedita inventore ipsa magnam nam nisi non quam quas quidem repudiandae sunt ullam unde.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam aliquid, at aut dolore est ex expedita inventore ipsa magnam nam nisi non quam quas quidem repudiandae sunt ullam unde."
+description: "eButler is an internal project, that is being run by our Joburg office. eButler was our first internal project, and has been our flagship product in South Africa so far. The idea is to do grocery shopping for people, using Uber for last mile delivery."

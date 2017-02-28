@@ -23,6 +23,9 @@ The logo was commissioned from a local designer. The idea was to have a simple b
 <img src="/img/logos/lifti.png" alt="Lifi Logo" class="img-responsive">
 </p>
 
+### The Stack
+Lifti was built by using NodeJS in the backend, and CSS, HTML5 and Javascript in the front end. We were tempted to use AngularJS in the front end, but we were concerned about taking too long to bring something to market, for an idea that was mostly experimental and wasn't going to be monetized.
+
 ### Fonts Used
 In all our designs, one of the things we try to nail down as soon as possible is the fonts to use. Proper typography makes all the difference in a design. Normally we try to pair a sans-serif font with a serif font, but in this case we found a perfect combination of sans-serif fonts and bent the rules a bit.
 #### Abel
