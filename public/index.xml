@@ -225,50 +225,12 @@
     </item>
     
     <item>
-      <title>Imprimatur</title>
-      <link>http://mmogodigital.com/case-study/imprimatur/</link>
-      <pubDate>Mon, 06 Feb 2017 17:45:46 +0200</pubDate>
-      
-      <guid>http://mmogodigital.com/case-study/imprimatur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lifti</title>
-      <link>http://mmogodigital.com/case-study/lifti/</link>
-      <pubDate>Mon, 06 Feb 2017 17:45:46 +0200</pubDate>
-      
-      <guid>http://mmogodigital.com/case-study/lifti/</guid>
-      <description>
-
-&lt;h3 id=&#34;the-initial-idea&#34;&gt;The Initial Idea&lt;/h3&gt;
-
-&lt;h3 id=&#34;fonts-used&#34;&gt;Fonts Used&lt;/h3&gt;
-
-&lt;h3 id=&#34;logo-design&#34;&gt;Logo Design&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Reo Properties</title>
-      <link>http://mmogodigital.com/case-study/reo/</link>
-      <pubDate>Mon, 06 Feb 2017 17:45:46 +0200</pubDate>
-      
-      <guid>http://mmogodigital.com/case-study/reo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Web &amp; Mobile</title>
       <link>http://mmogodigital.com/services/web-mobile/</link>
       <pubDate>Mon, 06 Feb 2017 17:45:46 +0200</pubDate>
       
       <guid>http://mmogodigital.com/services/web-mobile/</guid>
       <description>
-
-&lt;p class=&#39;service-img&#39; markdown=&#39;1&#39;&gt;
-&lt;img src=&#34;http://mmogodigital.com/img/banners/banner-1.jpg&#34; alt=&#34;Web and Mobile&#34;&gt;
-&lt;/p&gt;
 
 &lt;p class=&#39;service-img&#39; markdown=&#39;1&#39;&gt;
 &lt;img src=&#34;http://mmogodigital.com/img/banners/banner-1.jpg&#34; alt=&#34;Web and Mobile&#34;&gt;
@@ -301,204 +263,163 @@
     </item>
     
     <item>
-      <title>What&#39;s For Dinner</title>
-      <link>http://mmogodigital.com/case-study/whats-for-dinner/</link>
-      <pubDate>Mon, 06 Feb 2017 17:45:46 +0200</pubDate>
+      <title>Giscoe</title>
+      <link>http://mmogodigital.com/case-study/giscoe/</link>
+      <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
       
-      <guid>http://mmogodigital.com/case-study/whats-for-dinner/</guid>
+      <guid>http://mmogodigital.com/case-study/giscoe/</guid>
+      <description>
+
+&lt;h3 id=&#34;the-client-brief&#34;&gt;The Client Brief&lt;/h3&gt;
+
+&lt;p&gt;Benjamin &amp;amp; Davis had to redesign Giscoe’s website as part of their digital marketing plans, and needed a tech partner to execute on their designs with a 4 weeks turnaround time before launch. The new website was going to be slick, mobile and clearly showcased Giscoe’s services with a clear call to action.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-approach&#34;&gt;The Approach&lt;/h3&gt;
+
+&lt;p&gt;Using Scrum for Software development, our Senior Engineers and a Project Manager working alongside the client’s Graphic Design and Digital Marketing team, we were able to deliver the project on time without issues.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-stack&#34;&gt;The Stack&lt;/h3&gt;
+
+&lt;p&gt;The client wanted to be able to update the site content on their own, so we used our tried and trusted Django. It was a tough project, due to tight deadlines, and the client being particular about what they wanted, and the fact that the designers also had exacting standards that we had to adhere to. It was fun, being challenged like that and finding out just how much we can offer to our clients.&lt;/p&gt;
+
+&lt;h3 id=&#34;design&#34;&gt;Design&lt;/h3&gt;
+
+&lt;p&gt;For this project, we were implementing a design that had already been created for us by the design firm Benjamin &amp;amp; Davis, and all we had to do was code it in a CMS and make sure the final site was the same as the provided PSDs. We loved the design, its simplicity, the big and bold typography, and above all else the minimalism. You will notice the site doesn&amp;rsquo;t depend on big images to look good, there is a clever use of typography and color to deliver a great design.
+&lt;p class=&#39;screenshots&#39; markdown=&#39;1&#39;&gt;
+&lt;img src=&#34;http://mmogodigital.com/img/screenshots/giscoe-1.png&#34; alt=&#34;Giscoe Design&#34; class=&#34;img-responsive&#34;&gt;
+&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Imprimatur</title>
+      <link>http://mmogodigital.com/case-study/imprimatur/</link>
+      <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
+      
+      <guid>http://mmogodigital.com/case-study/imprimatur/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>nova</title>
+      <title>Lifti</title>
+      <link>http://mmogodigital.com/case-study/lifti/</link>
+      <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
+      
+      <guid>http://mmogodigital.com/case-study/lifti/</guid>
+      <description>
+
+&lt;h3 id=&#34;the-initial-idea&#34;&gt;The Initial Idea&lt;/h3&gt;
+
+&lt;p&gt;The initial idea of Lifti came from the fact that there are a lot of cars in the Botswana, and most people work and live in the same places. It could be Commerce Park, or Fairgrounds, or Mogoditshane, or BBS etc, so we thought it should be possible for these people to share cars and travel together. Its a win win in the end, you make friends, help others and sometimes make extra cash. Also, people can travel together using the same platform for longer trips, for example during holidays when we all want to go back to our home villages. We thought it would be nice to have a central place where people could find a list of all the lifts available and they can look for one that suits them and make a lift request and travel together.
+&lt;br&gt;
+&lt;br&gt;
+It&amp;rsquo;s a platform where we didnt want to make money, but to simply use technology to connect people and hopefully make the world a better place. There has been a lot of concern recently regarding carbon footprints and global warming, and this is our way of contributing positively towards this.&lt;/p&gt;
+
+&lt;h3 id=&#34;logo-design&#34;&gt;Logo Design&lt;/h3&gt;
+
+&lt;p&gt;The logo was commissioned from a local designer. The idea was to have a simple but nice logo, that also has takes some meaning from the idea of Lifti itself. If you notice, the F, the T and the I have a little thing going, in that they could be said to be lifting each other up in a way. The color choices were also important, a grey to represent the idea of the travel industry itself, and the yellow to add a dash of color and playfulness to the whole thing. It worked really well in the end.&lt;/p&gt;
+
+&lt;p class=&#39;case-study-logo&#39; markdown=&#39;1&#39;&gt;
+&lt;img src=&#34;http://mmogodigital.com/img/logos/lifti.png&#34; alt=&#34;Lifi Logo&#34; class=&#34;img-responsive&#34;&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;fonts-used&#34;&gt;Fonts Used&lt;/h3&gt;
+
+&lt;p&gt;In all our designs, one of the things we try to nail down as soon as possible is the fonts to use. Proper typography makes all the difference in a design. Normally we try to pair a sans-serif font with a serif font, but in this case we found a perfect combination of sans-serif fonts and bent the rules a bit.&lt;/p&gt;
+
+&lt;h4 id=&#34;abel&#34;&gt;Abel&lt;/h4&gt;
+
+&lt;p&gt;For the headings, we chose Abel, a nice clean Google Font that works well for headings. It is clean and very legible, and makes the headings really stand out.&lt;/p&gt;
+
+&lt;h4 id=&#34;roboto&#34;&gt;Roboto&lt;/h4&gt;
+
+&lt;p&gt;For the body text, we went with Roboto, which is the main Google font for Android. It is a very clean and legible font, perfect for body text. It also works very well with our choice for the heading text, Abel.&lt;/p&gt;
+
+&lt;h3 id=&#34;design&#34;&gt;Design&lt;/h3&gt;
+
+&lt;p&gt;We believe in simplicity, above all else. When a design is simple, it becomes a lot more usable, and can fulfill whatever use we want it to perform. Clutter on the other hand, hides away important functionalities, and confuses users. We wanted the site to be clean and minimal, so we paired mostly greys for the background and dark grey for the text. We made sure to balance it off by adding bright colors to our buttons so they stand out a lot more. We also made sure to use bright colors for notifications, to make sure we really get our users&amp;rsquo; attention when it really matters.&lt;/p&gt;
+
+&lt;p class=&#39;screenshots&#39; markdown=&#39;1&#39;&gt;
+&lt;img src=&#34;http://mmogodigital.com/img/screenshots/lifti-1.png&#34; alt=&#34;Lifti Design&#34; class=&#34;img-responsive&#34;&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nova</title>
       <link>http://mmogodigital.com/case-study/nova/</link>
-      <pubDate>Mon, 06 Feb 2017 17:45:46 +0200</pubDate>
+      <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
       
       <guid>http://mmogodigital.com/case-study/nova/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ebutler 2</title>
-      <link>http://mmogodigital.com/case-study/ebutler-2/</link>
-      <pubDate>Mon, 06 Feb 2017 17:45:10 +0200</pubDate>
+      <title>Reo Properties</title>
+      <link>http://mmogodigital.com/case-study/reo/</link>
+      <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
       
-      <guid>http://mmogodigital.com/case-study/ebutler-2/</guid>
-      <description></description>
+      <guid>http://mmogodigital.com/case-study/reo/</guid>
+      <description>
+
+&lt;h3 id=&#34;the-client-brief&#34;&gt;The Client Brief&lt;/h3&gt;
+
+&lt;p&gt;The owner of Reo Properties is an old friend, and one day he got in touch because his company had grown and needed a web presence. We agreed wholeheartedly, its important for companies to be on the internet nowadays so they can remain competitive. Reo Properties is a real estate company, they connect landlords with tenants, which is a very big market in Botswana. People are always looking for houses to rent or buy, or they want better houses than the ones they currently occupy, and someone needs to be able to make all these connections.&lt;br&gt;
+&lt;br&gt;
+The site would need to list all their currently available properties, have all the details visible to the user such as the prices, availablity, whether they are for sale or for rent, the location etc etc. The client had a basic idea of the sort of sites they wanted to benchmark on, and what they want their site to have in terms of content and so on. But the task on settling on a design was lef to us, the agreement was we would build what we had in mind, also incorporating ideas from the benchmark websites, then have the client review the site and we would then see whether to revise the design or to carry on with our approach.&lt;/p&gt;
+
+&lt;h3 id=&#34;logo-design&#34;&gt;Logo Design&lt;/h3&gt;
+
+&lt;p&gt;The logo was commissioned from a local designer, the same designer who did the &lt;a href=&#34;http://mmogodigital.com/case-study/lifti&#34;&gt;Lifti&lt;/a&gt; logo. There had been a previous logo, which we felt had not been done very well, and so we set out to take ideas from the old logo, which the client liked, and to clean it up and make it better. The client likes the idea of a lion, the spirit that the lion represents, and also real estate itself, so the logo had to have these two elements together. They also had gold as their main color, so the logo designer had to use gold in the logo. In the end, it worked very well, and the client was very happy with the new logo, and we loved the results as well.&lt;/p&gt;
+
+&lt;p class=&#39;case-study-logo&#39; markdown=&#39;1&#39;&gt;
+&lt;img src=&#34;http://mmogodigital.com/img/logos/reo.png&#34; alt=&#34;Reo Logo&#34; class=&#34;img-responsive&#34;&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;the-stack&#34;&gt;The Stack&lt;/h3&gt;
+
+&lt;p&gt;The client wanted to be able to update the site content on their own, and to be able to add new properties as they got more clients, so we needed to set up a CMS for them. We love Django, a Python CMS, and we use that for most of our clients who want a CMS. We then did a short training session for the client after launch so they could update the site on their own.&lt;br&gt;&lt;br&gt;
+For the frontend we used the usual suspects, CSS and Javascript.&lt;/p&gt;
+
+&lt;h3 id=&#34;photography&#34;&gt;Photography&lt;/h3&gt;
+
+&lt;p&gt;We needed to use imagery from Botswana, Gaborone to be specific, and we couldn&amp;rsquo;t just get stock photos because you would rarely find any photos of our beloved city in any of these sites. So we commissioned photos from a local photography company to take photos of some of the best places in the city for Reo&amp;rsquo;s image bank, and we chose some from here to use on the website. The results were stunning, there were some very nice photos that came out from the shoot, which we used for the main slider on the home page.&lt;/p&gt;
+
+&lt;h3 id=&#34;fonts-used&#34;&gt;Fonts Used&lt;/h3&gt;
+
+&lt;h4 id=&#34;source-sans-pro&#34;&gt;Source Sans Pro&lt;/h4&gt;
+
+&lt;p&gt;We decided to use one font across the site, we had tried some combos and when we finally settled on Source Sans Pro we found it worked perfectly on its own, which to us meant quicker load times for the site, which is also very important.&lt;/p&gt;
+
+&lt;h3 id=&#34;design&#34;&gt;Design&lt;/h3&gt;
+
+&lt;p&gt;The client also believes in minimalism as much as we do, and so the choice of design was easy. We used gold for all the main headings, as it is the company&amp;rsquo;s main color, and for the rest of the site played with shades of blue for different sections to give the site balance.&lt;/p&gt;
+
+&lt;p class=&#39;screenshots&#39; markdown=&#39;1&#39;&gt;
+&lt;img src=&#34;http://mmogodigital.com/img/screenshots/reo-1.png&#34; alt=&#34;Reo Design&#34; class=&#34;img-responsive&#34;&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Migrate from Jekyll Island</title>
-      <link>http://mmogodigital.com/blog/2015/10/10/migrate-from-jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>eButler</title>
+      <link>http://mmogodigital.com/case-study/ebutler/</link>
+      <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
       
-      <guid>http://mmogodigital.com/blog/2015/10/10/migrate-from-jekyll/</guid>
-      <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
+      <guid>http://mmogodigital.com/case-study/ebutler/</guid>
+      <description>
 
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
-With Jekyll, something that looked like&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ images/
-        logo.png
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;should become&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ static/
-        ▾ images/
-            logo.png
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code&gt;CNAME&lt;/code&gt;) to be moved to &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-your-hugo-configuration-file&#34;&gt;Create your Hugo configuration file&lt;/h2&gt;
-
-&lt;p&gt;Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the &lt;a href=&#34;http://mmogodigital.com/overview/configuration/&#34;&gt;Hugo configuration documentation&lt;/a&gt; for details.&lt;/p&gt;
-
-&lt;h2 id=&#34;set-your-configuration-publish-folder-to-site&#34;&gt;Set your configuration publish folder to &lt;code&gt;_site&lt;/code&gt;&lt;/h2&gt;
-
-&lt;p&gt;The default is for Jekyll to publish to &lt;code&gt;_site&lt;/code&gt; and for Hugo to publish to &lt;code&gt;public&lt;/code&gt;. If, like me, you have &lt;a href=&#34;http://blog.blindgaenger.net/generate_github_pages_in_a_submodule.html&#34;&gt;&lt;code&gt;_site&lt;/code&gt; mapped to a git submodule on the &lt;code&gt;gh-pages&lt;/code&gt; branch&lt;/a&gt;, you&amp;rsquo;ll want to do one of two alternatives:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Change your submodule to point to map &lt;code&gt;gh-pages&lt;/code&gt; to public instead of &lt;code&gt;_site&lt;/code&gt; (recommended).&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git submodule deinit _site
-git rm _site
-git submodule add -b gh-pages git@github.com:your-username/your-repo.git public
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Or, change the Hugo configuration to use &lt;code&gt;_site&lt;/code&gt; instead of &lt;code&gt;public&lt;/code&gt;.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{
-    ..
-    &amp;quot;publishdir&amp;quot;: &amp;quot;_site&amp;quot;,
-    ..
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;convert-jekyll-templates-to-hugo-templates&#34;&gt;Convert Jekyll templates to Hugo templates&lt;/h2&gt;
-
-&lt;p&gt;That&amp;rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to &lt;a href=&#34;http://jekyllrb.com/docs/templates/&#34;&gt;Jekyll&amp;rsquo;s template documentation&lt;/a&gt; if you need to refresh your memory on how you built your blog and &lt;a href=&#34;http://mmogodigital.com/layout/templates/&#34;&gt;Hugo&amp;rsquo;s template&lt;/a&gt; to learn Hugo&amp;rsquo;s way.&lt;/p&gt;
-
-&lt;p&gt;As a single reference data point, converting my templates for &lt;a href=&#34;http://heyitsalex.net/&#34;&gt;heyitsalex.net&lt;/a&gt; took me no more than a few hours.&lt;/p&gt;
-
-&lt;h2 id=&#34;convert-jekyll-plugins-to-hugo-shortcodes&#34;&gt;Convert Jekyll plugins to Hugo shortcodes&lt;/h2&gt;
-
-&lt;p&gt;Jekyll has &lt;a href=&#34;http://jekyllrb.com/docs/plugins/&#34;&gt;plugins&lt;/a&gt;; Hugo has &lt;a href=&#34;http://mmogodigital.com/doc/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. It&amp;rsquo;s fairly trivial to do a port.&lt;/p&gt;
-
-&lt;h3 id=&#34;implementation&#34;&gt;Implementation&lt;/h3&gt;
-
-&lt;p&gt;As an example, I was using a custom &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/blob/74bb12036a71334fdb7dba84e073382fc06908ec/_plugins/image_tag.rb&#34;&gt;&lt;code&gt;image_tag&lt;/code&gt;&lt;/a&gt; plugin to generate figures with caption when running Jekyll. As I read about shortcodes, I found Hugo had a nice built-in shortcode that does exactly the same thing.&lt;/p&gt;
-
-&lt;p&gt;Jekyll&amp;rsquo;s plugin:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;module Jekyll
-  class ImageTag &amp;lt; Liquid::Tag
-    @url = nil
-    @caption = nil
-    @class = nil
-    @link = nil
-    // Patterns
-    IMAGE_URL_WITH_CLASS_AND_CAPTION =
-    IMAGE_URL_WITH_CLASS_AND_CAPTION_AND_LINK = /(\w+)(\s+)((https?:\/\/|\/)(\S+))(\s+)&amp;quot;(.*?)&amp;quot;(\s+)-&amp;gt;((https?:\/\/|\/)(\S+))(\s*)/i
-    IMAGE_URL_WITH_CAPTION = /((https?:\/\/|\/)(\S+))(\s+)&amp;quot;(.*?)&amp;quot;/i
-    IMAGE_URL_WITH_CLASS = /(\w+)(\s+)((https?:\/\/|\/)(\S+))/i
-    IMAGE_URL = /((https?:\/\/|\/)(\S+))/i
-    def initialize(tag_name, markup, tokens)
-      super
-      if markup =~ IMAGE_URL_WITH_CLASS_AND_CAPTION_AND_LINK
-        @class   = $1
-        @url     = $3
-        @caption = $7
-        @link = $9
-      elsif markup =~ IMAGE_URL_WITH_CLASS_AND_CAPTION
-        @class   = $1
-        @url     = $3
-        @caption = $7
-      elsif markup =~ IMAGE_URL_WITH_CAPTION
-        @url     = $1
-        @caption = $5
-      elsif markup =~ IMAGE_URL_WITH_CLASS
-        @class = $1
-        @url   = $3
-      elsif markup =~ IMAGE_URL
-        @url = $1
-      end
-    end
-    def render(context)
-      if @class
-        source = &amp;quot;&amp;lt;figure class=&#39;#{@class}&#39;&amp;gt;&amp;quot;
-      else
-        source = &amp;quot;&amp;lt;figure&amp;gt;&amp;quot;
-      end
-      if @link
-        source += &amp;quot;&amp;lt;a href=\&amp;quot;#{@link}\&amp;quot;&amp;gt;&amp;quot;
-      end
-      source += &amp;quot;&amp;lt;img src=\&amp;quot;#{@url}\&amp;quot;&amp;gt;&amp;quot;
-      if @link
-        source += &amp;quot;&amp;lt;/a&amp;gt;&amp;quot;
-      end
-      source += &amp;quot;&amp;lt;figcaption&amp;gt;#{@caption}&amp;lt;/figcaption&amp;gt;&amp;quot; if @caption
-      source += &amp;quot;&amp;lt;/figure&amp;gt;&amp;quot;
-      source
-    end
-  end
-end
-Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;is written as this Hugo shortcode:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;!-- image --&amp;gt;
-&amp;lt;figure {{ with .Get &amp;quot;class&amp;quot; }}class=&amp;quot;{{.}}&amp;quot;{{ end }}&amp;gt;
-    {{ with .Get &amp;quot;link&amp;quot;}}&amp;lt;a href=&amp;quot;{{.}}&amp;quot;&amp;gt;{{ end }}
-        &amp;lt;img src=&amp;quot;{{ .Get &amp;quot;src&amp;quot; }}&amp;quot; {{ if or (.Get &amp;quot;alt&amp;quot;) (.Get &amp;quot;caption&amp;quot;) }}alt=&amp;quot;{{ with .Get &amp;quot;alt&amp;quot;}}{{.}}{{else}}{{ .Get &amp;quot;caption&amp;quot; }}{{ end }}&amp;quot;{{ end }} /&amp;gt;
-    {{ if .Get &amp;quot;link&amp;quot;}}&amp;lt;/a&amp;gt;{{ end }}
-    {{ if or (or (.Get &amp;quot;title&amp;quot;) (.Get &amp;quot;caption&amp;quot;)) (.Get &amp;quot;attr&amp;quot;)}}
-    &amp;lt;figcaption&amp;gt;{{ if isset .Params &amp;quot;title&amp;quot; }}
-        {{ .Get &amp;quot;title&amp;quot; }}{{ end }}
-        {{ if or (.Get &amp;quot;caption&amp;quot;) (.Get &amp;quot;attr&amp;quot;)}}&amp;lt;p&amp;gt;
-        {{ .Get &amp;quot;caption&amp;quot; }}
-        {{ with .Get &amp;quot;attrlink&amp;quot;}}&amp;lt;a href=&amp;quot;{{.}}&amp;quot;&amp;gt; {{ end }}
-            {{ .Get &amp;quot;attr&amp;quot; }}
-        {{ if .Get &amp;quot;attrlink&amp;quot;}}&amp;lt;/a&amp;gt; {{ end }}
-        &amp;lt;/p&amp;gt; {{ end }}
-    &amp;lt;/figcaption&amp;gt;
-    {{ end }}
-&amp;lt;/figure&amp;gt;
-&amp;lt;!-- image --&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;usage&#34;&gt;Usage&lt;/h3&gt;
-
-&lt;p&gt;I simply changed:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{% image full http://farm5.staticflickr.com/4136/4829260124_57712e570a_o_d.jpg &amp;quot;One of my favorite touristy-type photos. I secretly waited for the good light while we were &amp;quot;having fun&amp;quot; and took this. Only regret: a stupid pole in the top-left corner of the frame I had to clumsily get rid of at post-processing.&amp;quot; -&amp;gt;http://www.flickr.com/photos/alexnormand/4829260124/in/set-72157624547713078/ %}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;to this (this example uses a slightly extended version named &lt;code&gt;fig&lt;/code&gt;, different than the built-in &lt;code&gt;figure&lt;/code&gt;):&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% fig class=&amp;quot;full&amp;quot; src=&amp;quot;http://farm5.staticflickr.com/4136/4829260124_57712e570a_o_d.jpg&amp;quot; title=&amp;quot;One of my favorite touristy-type photos. I secretly waited for the good light while we were having fun and took this. Only regret: a stupid pole in the top-left corner of the frame I had to clumsily get rid of at post-processing.&amp;quot; link=&amp;quot;http://www.flickr.com/photos/alexnormand/4829260124/in/set-72157624547713078/&amp;quot; %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;As a bonus, the shortcode named parameters are, arguably, more readable.&lt;/p&gt;
-
-&lt;h2 id=&#34;finishing-touches&#34;&gt;Finishing touches&lt;/h2&gt;
-
-&lt;h3 id=&#34;fix-content&#34;&gt;Fix content&lt;/h3&gt;
-
-&lt;p&gt;Depending on the amount of customization that was done with each post with Jekyll, this step will require more or less effort. There are no hard and fast rules here except that &lt;code&gt;hugo server --watch&lt;/code&gt; is your friend. Test your changes and fix errors as needed.&lt;/p&gt;
-
-&lt;h3 id=&#34;clean-up&#34;&gt;Clean up&lt;/h3&gt;
-
-&lt;p&gt;You&amp;rsquo;ll want to remove the Jekyll configuration at this point. If you have anything else that isn&amp;rsquo;t used, delete it.&lt;/p&gt;
-
-&lt;h2 id=&#34;a-practical-example-in-a-diff&#34;&gt;A practical example in a diff&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://heyitsalex.net/&#34;&gt;Hey, it&amp;rsquo;s Alex&lt;/a&gt; was migrated in less than a &lt;em&gt;father-with-kids day&lt;/em&gt; from Jekyll to Hugo. You can see all the changes (and screw-ups) by looking at this &lt;a href=&#34;https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610&#34;&gt;diff&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;h4 id=&#34;internal-project&#34;&gt;Internal Project&lt;/h4&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>eButler</title>
+      <link>http://mmogodigital.com/case-study/whats-for-dinner/</link>
+      <pubDate>Mon, 06 Feb 2017 17:42:28 +0200</pubDate>
+      
+      <guid>http://mmogodigital.com/case-study/whats-for-dinner/</guid>
+      <description></description>
     </item>
     
   </channel>
