@@ -247,7 +247,25 @@ $('#portfolio-slider .slider').slick({
     infinite: true,
     slidesToShow: 3,
     slidesToScroll: 1,
-    autoplay: true
+    autoplay: true,
+    responsive: [
+        {
+            breakpoint: 991,
+            settings: {
+                slidesToShow: 2,
+                slidesToScroll: 1,
+                infinite: true,
+                dots: true
+            }
+        },
+        {
+            breakpoint: 767,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }
+    ]
 });
 
 // Remove mouse wheel scroll on GMaps
