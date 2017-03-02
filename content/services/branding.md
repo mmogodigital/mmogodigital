@@ -12,7 +12,6 @@ slug = "branding"
 ### Corporate Identity
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
 
-
 ### Marketing Materials
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
 
