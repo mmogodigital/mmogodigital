@@ -3,9 +3,11 @@
     {{ if isset .Site.Params "address" }}
     <div class="col-md-6 col-sm-6 contact-details">
 
-        <h3>Our Office</h3>
+        <h3>Our Gaborone Office</h3>
 
         {{ .Site.Params.address | safeHTML }}
+
+        <a href="#" id="za-office">View our Joburg Office</a>
 
     </div>
     <!-- /.col-md-4 -->
@@ -18,5 +20,32 @@
           &attribution_web_url=https://developers.google.com/maps/documentation/embed/
           &key=AIzaSyCUjUnvIsIAesmvx9hKHXZGfw1oaHdKJ6M" allowfullscreen>
         </iframe>
+
+    </div>
+</section>
+
+<section id="za-map-block" class="hidden">
+
+    {{ if isset .Site.Params "address" }}
+    <div class="col-md-6 col-sm-6 contact-details">
+
+        <h3>Our Joburg Office</h3>
+
+        {{ .Site.Params.address_za | safeHTML }}
+
+        <a href="#" id="bw-office">View our Gaborone Office</a>
+
+    </div>
+    <!-- /.col-md-4 -->
+    {{ end }}
+
+    <div class="map" onclick="document.getElementById('iframe').style.pointerEvents= 'auto'">
+        <iframe class="" src="https://www.google.com/maps/embed/v1/place?q=-26.1855489,28.019108
+          &zoom=15
+          &attribution_source=Google+Maps+Embed+API
+          &attribution_web_url=https://developers.google.com/maps/documentation/embed/
+          &key=AIzaSyCUjUnvIsIAesmvx9hKHXZGfw1oaHdKJ6M" allowfullscreen>
+        </iframe>
+
     </div>
 </section>

@@ -44,6 +44,7 @@ paginate = 10
 
     logo = "img/logo.png"
     address = "<p><strong>MmogoDigital</strong><br>Unit 2D, Floor 2,<br>Plot 54368<br>iTowers, CBD<br>Gaborone, Botswana</p>"
+    address_za = "<p><strong>MmogoDigital</strong><br>44 Stanley Ave,<br>Milpark,<br>Johannesburg,<br>South Africa</p>"
 
     latitude = "-24.647700"
     longitude = "25.906012"
