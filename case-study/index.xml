@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Case-studies on MmogoDigital</title>
+    <title>Case-studies on MmogoDigital - More than just websites...</title>
     <link>http://mmogodigital.com/case-study/index.xml</link>
-    <description>Recent content in Case-studies on MmogoDigital</description>
+    <description>Recent content in Case-studies on MmogoDigital - More than just websites...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2013 - 2017, MmogoDigital. All rights reserved.</copyright>
@@ -98,7 +98,9 @@ It&amp;rsquo;s a platform where we didnt want to make money, but to simply use t
 
 &lt;h3 id=&#34;the-client-brief&#34;&gt;The Client Brief&lt;/h3&gt;
 
-&lt;p&gt;Nova is a student bursary web app, it connects students with companies that offer bursaries. The project is the brainchild of Name Here, and she asked us to help her bring this project to life.&lt;/p&gt;
+&lt;p&gt;Nova is a student bursary web app, it connects students with companies that offer bursaries. This is a very important project, because
+in South Africa, students are not sponsored by the government, rather they have to either self-sponsor, or get bursaries. A platform that
+connects deserving students with companies willing to give out bursaries therefore is very critical.&lt;/p&gt;
 
 &lt;h3 id=&#34;the-stack&#34;&gt;The Stack&lt;/h3&gt;
 
@@ -106,7 +108,7 @@ It&amp;rsquo;s a platform where we didnt want to make money, but to simply use t
 
 &lt;h3 id=&#34;design&#34;&gt;Design&lt;/h3&gt;
 
-&lt;p&gt;The client likes the color green, and also wanted a clean and simple design. We think we delivered, and we made sure to keep the site simple and have the content drive the design, not the other way around. The choice of fonts was important, to make sure the content would be clear and legible.
+&lt;p&gt;The client likes the color green, and also wanted a clean and simple design. We cerainly delivered, and we made sure to keep the site simple and have the content drive the design, not the other way around. The choice of fonts was important, to make sure the content would be clear and legible.
 &lt;p class=&#39;screenshots&#39; markdown=&#39;1&#39;&gt;
 &lt;img src=&#34;http://mmogodigital.com/img/screenshots/nova-1.png&#34; alt=&#34;Nova Design&#34; class=&#34;img-responsive&#34;&gt;
 &lt;/p&gt;&lt;/p&gt;
