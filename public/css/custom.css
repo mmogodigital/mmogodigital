@@ -250,6 +250,14 @@ h1, h2{
   text-align: center;
 }
 
+#services h2{
+  margin-bottom: 10px;
+}
+
+#services > .inner .description{
+  text-align: justify;
+}
+
 #services .inner .fa{
   font-size: 40px;
   display: block;
@@ -259,7 +267,7 @@ h1, h2{
 /*Service Node*/
 .service-img{
   height: 120px;
-  overflow-y: hidden;
+  overflow: hidden;
 }
 
 

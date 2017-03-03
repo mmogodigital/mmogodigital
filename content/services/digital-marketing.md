@@ -8,9 +8,15 @@ slug = "digital-marketing"
 <img src="/img/banners/banner-1.jpg" alt="Web and Mobile">
 </p>
 
+Digital marketing is aimed at either getting customers online, or growing your brand recognition online.
+It is a deliberate process, which hs to be measured with proper metrics from which tweaks can be made to each
+campaign. There are several services we offer for this, most of them listed below.
 
 ### Email Marketing
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
+Companies need to build an email list, at every chance collect emails from customers and potential customers. This allows the company to have an audience ready every time they have a promotion,
+special offers, new products etc. We help companies achieve this, by setting out multiple points of collection for these emails,
+whether it be on your website, apps or social media channels. From here, we help set out a proper email marketing strategy,
+with newsletters, automated emails, email analytics etc.
 
 ### Search Engine Optimization
 Being searchable on Google is important, it is part of a proper inbound marketing strategy. Companies compete for keyword searches on Google, if you are a pool installation company for example, you want
@@ -27,20 +33,5 @@ minds.
 ### Influencer Marketing
 We look for influential people, and have them push out targeted social media tweets to help you sell or be found on the
 web. Celebrities have a lot of followers on social media, and we want to bring this audience to your company. With the right social media post, your company can have a sudden influx of users.
-
-### Conversion Rate Optimization
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
-
-### CRM
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
-
-### Customer Loyalty Programs
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
-
-### Marketing Automation
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
-
-### Lead Scoring
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
 
 

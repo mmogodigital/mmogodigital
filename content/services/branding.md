@@ -10,13 +10,11 @@ slug = "branding"
 </p>
 
 ### Corporate Identity
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
+We take care of all your branding needs, we will create a full CI manual for your company, from logos, company profile, brochures, car branding to designing how your corporate clothing will look like.
 
 ### Marketing Materials
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
-
-### Print Ads
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
+Do you want to put out fliers, or flight ads in the media? Or put up signage or a bill board? We have you covered. Our designers have worked with the biggest brands in the country, and consistently deliver great quality work.
 
 ### Annual Reports
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
+We design annual reports with a twist, we also create a companion web app that we will link to your website, with interactive information from your annual report.
+Interactive charts and graphs, videos of your company's year and anything else that grabs your imagination.

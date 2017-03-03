@@ -18,9 +18,12 @@ In time, we make it possible for you to query this data, you could for example g
 site, or any other fine grained filters you want. From these lists, you can then tailor products or services to these customers.
 
 ### Consumer Data Analytics
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
+By definition, consumer data analytics helps your business use data gathered on your customers' behaviour to be used
+to make decisions, by allowing you to segment your different customers, and to be able to make accurate predictions on
+what they might like for example. Our service offering helps you gather the data from your digital channels, and then
+to make sense of it, from which you can then make informed decisions.
 
 ### Brand Analytics
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam amet expedita labore necessitatibus officiis quae quidem vitae? Deleniti ipsum iste nobis perferendis sed! Culpa dignissimos dolores earum illum minima quisquam.
-
+Brand analytics help you understand how your brand stands with your customers, with regard to your digital platforms. We help you measure how
+well you connect with customers, by setting up measurements for key metrics that indicate how people view your brand.
 
