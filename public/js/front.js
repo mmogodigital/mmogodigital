@@ -280,3 +280,15 @@ $( ".map" ).mouseleave(function() {
 $('#mc-form').ajaxChimp({
         url: 'https://mmogodigital.us15.list-manage.com/subscribe/post?u=5a03d5bc85ba6cf81c6141735&id=33e6da20d2'
 });
+
+$( "#za-office" ).click(function(e) {
+    e.preventDefault();
+    $('#za-map-block').removeClass("hidden");
+    $('#map-block').addClass("hidden");
+});
+
+$( "#bw-office" ).click(function(e) {
+    e.preventDefault();
+    $('#map-block').removeClass("hidden");
+    $('#za-map-block').addClass("hidden");
+});

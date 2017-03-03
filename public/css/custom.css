@@ -401,6 +401,7 @@ h1, h2{
 }
 
 /*Google Map*/
+#za-map-block .map iframe,
 #map-block .map iframe{
   pointer-events: none;
   width: 100%;
@@ -409,6 +410,7 @@ h1, h2{
   margin-bottom: -5px;
 }
 
+#za-map-block .contact-details,
 #map-block .contact-details{
   position: absolute;
   right: 200px;
@@ -419,8 +421,10 @@ h1, h2{
   font-size: 15px;
 }
 
+#za-map-block .contact-details a,
 #map-block .contact-details a{
   color: #fff;
+  font-size: 13px;
 }
 
 
