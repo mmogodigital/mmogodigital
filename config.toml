@@ -43,8 +43,8 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = "<p><strong>MmogoDigital</strong><br>Unit 2D, Floor 2,<br>Plot 54368<br>iTowers, CBD<br>Gaborone, Botswana</p>"
-    address_za = "<p><strong>MmogoDigital</strong><br>44 Stanley Ave,<br>Milpark,<br>Johannesburg,<br>South Africa</p>"
+    address = "<p><strong>MmogoDigital</strong><br>Unit 2D, Floor 2,<br>Plot 54368<br>iTowers, CBD<br>Gaborone, Botswana</p><p>Email: sales@mmogodigital.com</p><p>Tel: +267 313 3313</p>"
+    address_za = "<p><strong>MmogoDigital</strong><br>44 Stanley Ave,<br>Milpark,<br>Johannesburg,<br>South Africa</p><p>Email: sales@mmogodigital.com</p><p>Tel: 087-550-4240</p>"
 
     latitude = "-24.647700"
     longitude = "25.906012"
