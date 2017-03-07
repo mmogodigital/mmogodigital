@@ -1,6 +1,6 @@
 +++
 title = "Starting MmogoDigital"
-date = "2017-08-24T13:50:46+02:00"
+date = "2017-03-08T13:50:46+02:00"
 tags = ["business"]
 categories = ["starting"]
 banner = ""
