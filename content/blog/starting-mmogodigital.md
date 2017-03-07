@@ -3,7 +3,7 @@ title = "Starting MmogoDigital"
 date = "2017-08-24T13:50:46+02:00"
 tags = ["business"]
 categories = ["starting"]
-banner = "img/banners/banner-1.jpg"
+banner = ""
 author = "MmogoDigital"
 summary = "Starting MmogoDigital is the culmination of a promise I made to myself years ago, that at the age of 30 I would start working for myself. Since I made the promise, the next logical step was to gain as much experience as possible so as to be ready when the day came to start my own thing."
 +++
