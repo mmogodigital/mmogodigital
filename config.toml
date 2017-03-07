@@ -1,4 +1,4 @@
-baseurl = "http://mmogodigital.com/"
+baseurl = "https://mmogodigital.com/"
 title = "MmogoDigital - More than just websites..."
 theme = "hugo-universal-theme"
 languageCode = "en-us"
