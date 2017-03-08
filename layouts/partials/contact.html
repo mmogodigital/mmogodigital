@@ -15,7 +15,7 @@
 
                 <div id="contact-message"></div>
 
-                <form class="contact-form" method="post" action="https://formspree.io/{{ .Site.Params.email }}">
+                <form class="contact-form">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
@@ -36,10 +36,14 @@
                             </div>
                         </div>
 
+                        <input type="hidden" name="_next" value="mmogodigital.com" />
+                        <input type="text" name="_gotcha" style="display:none" />
+                        <input type="hidden" name="_format" value="plain" />
+
                         <div class="col-sm-12 text-center">
                             <button type="submit" class="btn btn-primary"><i class="fa fa-envelope-o"></i> Send message</button>
-
                         </div>
+
                     </div>
                     <!-- /.row -->
                 </form>
