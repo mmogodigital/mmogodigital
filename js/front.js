@@ -85,6 +85,8 @@ $( "#bw-office" ).click(function(e) {
 });
 
 $( ".contact-form button" ).click(function(e) {
+    e.preventDefault();
+
     var data = $('form.contact-form').serializeArray();
 
     $.ajax({
