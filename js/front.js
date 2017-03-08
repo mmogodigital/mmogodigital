@@ -1,30 +1,6 @@
 /* global $this: true */
 /* eslint no-unused-vars: ["error", { "varsIgnorePattern": "animationsSlider" }] */
 
-$(function () {
-  contactForm()
-});
-
-// Ajax contact
-function contactForm () {
-  var form = $('.contact-form');
-  form.submit(function () {
-    $this = $(this)
-    $.post($(this).attr('action'),
-      $this.serialize(),
-      function () {
-        $this[0].reset() // clear form
-
-        $('#contact-message')
-        .html('<div class="alert alert-success" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>Thank you for getting in touch. We will get back to you soon!</div>')
-        .fadeIn()
-      }
-      , 'json');
-    return false
-  })
-}
-
-
 $('#main-slider .slider').slick({
     dots: true,
     infinite: true,
@@ -32,7 +8,7 @@ $('#main-slider .slider').slick({
     fade: true,
     autoplay: true,
     speed: 500
-})
+});
 
 $('#portfolio-slider .slider').slick({
     infinite: true,
@@ -86,14 +62,22 @@ $( "#bw-office" ).click(function(e) {
 
 $( ".contact-form button" ).click(function(e) {
     e.preventDefault();
+    var form = $('form.contact-form');
 
-    var data = $('form.contact-form').serializeArray();
+    var data = form.serializeArray();
 
     $.ajax({
         url: "https://formspree.io/sales@mmogodigital.com",
         method: "POST",
         data: {message: data},
-        dataType: "json"
+        dataType: "json",
+        success: function () {
+            form.reset(); // clear form
+
+            $('#contact-message')
+                .html('<div class="alert alert-success" role="alert"><button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>Thank you for getting in touch. We will get back to you soon!</div>')
+                .fadeIn()
+        }
     });
 
 });
