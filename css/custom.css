@@ -283,13 +283,13 @@ h1, h2{
 
 #featured-projects .right,
 #featured-projects .left{
-  padding: 60px;
+  padding: 50px;
   text-align: center;
 }
 
 #featured-projects img{
-  width: 100%;
-  height:auto;
+  width: auto;
+  height: 600px;
 }
 
 /*Case Studies*/
@@ -590,6 +590,10 @@ h1, h2{
   border: 1px solid #d8d4d4;
 }
 
+.navbar-toggle{
+  color: #fff;
+}
+
 /*Responsive Styles*/
 /* IE8- CSS hack */
 @media \0screen\,screen\9 {
@@ -612,10 +616,22 @@ h1, h2{
 }
 
 @media (max-width: 991px){
-  #case-study-listing .case-study .logo, #case-study-listing .case-study .content {
+
+  #main-slider .caption{
+    width: 90%;
+    top: 25%;
+  }
+
+  #case-study-listing .case-study .logo,
+  #case-study-listing .case-study .content {
     width: 330px;
     height: 253px;
   }
+
+  .branding{
+    clear: left;
+  }
+
 }
 
 @media (max-width: 767px){
@@ -630,4 +646,84 @@ h1, h2{
     height: 300px;
     max-width: 96%;
   }
+
+  #main-slider h1{
+    font-size: 60px;
+  }
+
+  .navbar-default .navbar-collapse{
+    text-align: center;
+    margin-top: -30px;
+    background: #101010;
+    position: relative;
+    z-index: 200;
+    top: 17px;
+    border-color: #000;
+  }
+
+  .lead-text{
+    font-size: 15px;
+  }
+
+  #contact-home .form-container{
+    max-width: 100%;
+  }
+
 }
+
+@media (max-width: 700px){
+
+  #za-map-block .contact-details, #map-block .contact-details{
+    position: relative;
+    right: 0;
+    left: 0;
+  }
+
+}
+
+
+@media (max-width: 650px){
+
+  .slick-slide img{
+    display: block;
+    max-width: none;
+    height: 500px;
+    width: auto;
+  }
+
+  .caption .btn-main-outline,
+  .caption .btn-main{
+    font-size: 14px;
+    margin-top: 10px;
+  }
+
+  #main-slider h1{
+    font-size: 50px;
+  }
+
+}
+
+
+
+@media (max-width: 650px){
+  .copyright,
+  .social{
+    width: 100%;
+    text-align: left;
+    float: none;
+    display: block;
+    margin: 5px 0;
+  }
+
+  .copyright *,
+  .social *{
+    text-align: left !important;
+    float: none!important;
+  }
+
+  .social ul{
+    padding: 0;
+  }
+
+}
+
